@@ -1,0 +1,258 @@
+[
+    {
+        "id": 1,
+        "title": "Inception",
+        "release_date": "2010-07-16",
+        "overview": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.",
+        "poster_path": "/qjbqzV6dQvveLSuucUs7C5YzZ9m.jpg",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 2,
+        "title": "The Dark Knight",
+        "release_date": "2008-07-18",
+        "overview": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham.",
+        "poster_path": "/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg",
+        "genre": "Action"
+    },
+    {
+        "id": 3,
+        "title": "Interstellar",
+        "release_date": "2014-11-07",
+        "overview": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "poster_path": "/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 4,
+        "title": "The Matrix",
+        "release_date": "1999-03-31",
+        "overview": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "poster_path": "/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg",
+        "genre": "Action"
+    },
+    {
+        "id": 5,
+        "title": "The Shawshank Redemption",
+        "release_date": "1994-09-23",
+        "overview": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "poster_path": "/q6y0Go1tsGEsmtFryDOJo3dEmqu.jpg",
+        "genre": "Drama"
+    },
+    {
+        "id": 6,
+        "title": "Pulp Fiction",
+        "release_date": "1994-10-14",
+        "overview": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "poster_path": "/d5iIlFn5s0ImszYzBPb8JPIfbXD.jpg",
+        "genre": "Crime"
+    },
+    {
+        "id": 7,
+        "title": "Fight Club",
+        "release_date": "1999-10-15",
+        "overview": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+        "poster_path": "/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg",
+        "genre": "Drama"
+    },
+    {
+        "id": 8,
+        "title": "Forrest Gump",
+        "release_date": "1994-07-06",
+        "overview": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+        "poster_path": "/h5J4W4veyxMXDMjeNxZI46TsHOb.jpg",
+        "genre": "Drama"
+    },
+    {
+        "id": 9,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "release_date": "2001-12-19",
+        "overview": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "poster_path": "/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg",
+        "genre": "Fantasy"
+    },
+    {
+        "id": 10,
+        "title": "The Lion King",
+        "release_date": "1994-06-24",
+        "overview": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+        "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "genre": "Animation"
+    },
+    {
+        "id": 11,
+        "title": "Back to the Future",
+        "release_date": "1985-07-03",
+        "overview": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.",
+        "poster_path": "/pTpxQB1N0waaSc3OSn0e9oc8kx9.jpg",
+        "genre": "Adventure"
+    },
+    {
+        "id": 12,
+        "title": "Gladiator",
+        "release_date": "2000-05-05",
+        "overview": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+        "poster_path": "/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+        "genre": "Action"
+    },
+    {
+        "id": 13,
+        "title": "Titanic",
+        "release_date": "1997-12-19",
+        "overview": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+        "poster_path": "/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+        "genre": "Romance"
+    },
+    {
+        "id": 14,
+        "title": "The Godfather",
+        "release_date": "1972-03-24",
+        "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "genre": "Crime"
+    },
+    {
+        "id": 15,
+        "title": "Schindler's List",
+        "release_date": "1993-12-15",
+        "overview": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+        "poster_path": "/c8Ass7acuOe4za6DhSattE359gr.jpg",
+        "genre": "History"
+    },
+    {
+        "id": 16,
+        "title": "Star Wars: Episode IV - A New Hope",
+        "release_date": "1977-05-25",
+        "overview": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+        "poster_path": "/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 17,
+        "title": "Jurassic Park",
+        "release_date": "1993-06-11",
+        "overview": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+        "poster_path": "/9i3plLl89DHMz7mahksDaAo7HIS.jpg",
+        "genre": "Adventure"
+    },
+    {
+        "id": 18,
+        "title": "The Avengers",
+        "release_date": "2012-05-04",
+        "overview": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "genre": "Action"
+    },
+    {
+        "id": 19,
+        "title": "Toy Story",
+        "release_date": "1995-11-22",
+        "overview": "A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.",
+        "poster_path": "/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg",
+        "genre": "Animation"
+    },
+    {
+        "id": 20,
+        "title": "The Silence of the Lambs",
+        "release_date": "1991-02-14",
+        "overview": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+        "poster_path": "/qjAyKR7uodBU3myGkzKFYQLRnIx.jpg",
+        "genre": "Thriller"
+    },
+    {
+        "id": 21,
+        "title": "The Sixth Sense",
+        "release_date": "1999-08-06",
+        "overview": "A boy who communicates with spirits that don't know they're dead seeks the help of a disheartened child psychologist.",
+        "poster_path": "/fIssD3w3SvIhPPmVo4WMgZDVLID.jpg",
+        "genre": "Mystery"
+    },
+    {
+        "id": 22,
+        "title": "The Social Network",
+        "release_date": "2010-10-01",
+        "overview": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+        "poster_path": "/ok5Wh8385Kgblq9MSU4VGvazeMH.jpg",
+        "genre": "Drama"
+    },
+    {
+        "id": 23,
+        "title": "Avatar",
+        "release_date": "2009-12-18",
+        "overview": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "poster_path": "/6EiRUJpuoeQPghrs3YNktfnqOVh.jpg",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 24,
+        "title": "Braveheart",
+        "release_date": "1995-05-24",
+        "overview": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "poster_path": "/or1gBugydmjToAEq7OZY0owwFk.jpg",
+        "genre": "History"
+    },
+    {
+        "id": 25,
+        "title": "The Departed",
+        "release_date": "2006-10-06",
+        "overview": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+        "poster_path": "/kWWAt2FMRbqLFFy7A0wRGWb8ETJ.jpg",
+        "genre": "Crime"
+    },
+    {
+        "id": 26,
+        "title": "Alien",
+        "release_date": "1979-05-25",
+        "overview": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+        "poster_path": "/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+        "genre": "Horror"
+    },
+    {
+        "id": 27,
+        "title": "The Grand Budapest Hotel",
+        "release_date": "2014-03-28",
+        "overview": "A writer encounters the owner of an aging high-class hotel, who tells him of his early years serving as a lobby boy in the hotel's glorious years under an exceptional concierge.",
+        "poster_path": "/dCgm7efXDmiABSdWDHBDBx2jwmn.jpg",
+        "genre": "Comedy"
+    },
+    {
+        "id": 28,
+        "title": "A Beautiful Mind",
+        "release_date": "2001-12-21",
+        "overview": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+        "poster_path": "/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg",
+        "genre": "Biography"
+    },
+    {
+        "id": 29,
+        "title": "The Green Mile",
+        "release_date": "1999-12-10",
+        "overview": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+        "poster_path": "/velWPhVMQeQKcxggNEU8YmIo52R.jpg",
+        "genre": "Drama"
+    },
+    {
+        "id": 30,
+        "title": "Guardians of the Galaxy",
+        "release_date": "2014-08-01",
+        "overview": "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
+        "poster_path": "/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg",
+        "genre": "Sci-Fi"
+    },
+    {
+        "id": 31,
+        "title": "The Prestige",
+        "release_date": "2006-10-20",
+        "overview": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+        "poster_path": "/5MXyQfz8xUP3dIFPTubhTsbFY6N.jpg",
+        "genre": "Mystery"
+    },
+    {
+        "id": 32,
+        "title": "The Truman Show",
+        "release_date": "1998-06-05",
+        "overview": "An insurance salesman discovers his whole life is actually a reality TV show.",
+        "poster_path": "/7WG6A2jKV5SzYGkNIVfQgO5vchp.jpg",
+        "genre": "Drama"
+    }
+]
